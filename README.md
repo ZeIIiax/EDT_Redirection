@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://progfox.fr/cours/)
+[![Website](https://img.shields.io/badge/Demo-access-green?style=flat-square)](https://progfox.fr/cours/)
 # EDT_Redirection
 Create your own web page for redirect your Group in some different link for follow your School lessons.
 
