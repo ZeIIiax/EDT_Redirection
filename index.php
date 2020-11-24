@@ -1,4 +1,4 @@
-<?php include("GINF1.php")?>
+<?php include("Group.php")?>
 <?php
 $tomorrow = date("D", strtotime("+1 day"));
 $affichage = "Plus de cours pour Aujourd'hui";
