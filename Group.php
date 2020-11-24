@@ -1,5 +1,5 @@
 <?php
-$groupe = 'INF-1';
+$groupe = '<Name of your Group>';
 $cours =[
     //INF 301
     'TD INF301' =>[
